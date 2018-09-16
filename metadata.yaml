@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '7195'
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: archival
+  image_path: 51732-h/images/cover_lg.jpg
 creator:
   authors:
   - agent_name: Dante Alighieri
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '36613'
     url: http://www.gutenberg.org/2009/agents/36613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51732#The-Vision-of-Dante-A-story-for-little-children-and-a-talk-to-their-mothers-Second-Edition
 gutenberg_issued: '2016-04-11'
 gutenberg_type: Text
 identifiers:
